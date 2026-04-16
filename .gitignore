@@ -1,0 +1,39 @@
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Visual Studio / .NET (Since you have C# background) ---
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# --- Python (For potential automation/log analysis scripts) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# --- Documentation and Temp Files ---
+# Ignore temporary Word/Office files
+~$*
+# Ignore LaTeX temp files if used
+*.aux
+*.log
+*.toc
+*.out
+
+# --- Security and Environment ---
+# Never commit credentials or local environment configs
+.env
+*.pem
+*.key
