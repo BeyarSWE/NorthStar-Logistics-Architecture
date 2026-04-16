@@ -56,7 +56,7 @@ We can accept a little more risk in SL 1 and 2, but zones in SL 3 and 4 must be 
 
 ### Security Analysis
 The potential threats and vulnerabilities for the system have been evaluated in the
-[Risk Assessment](https://github.com/ITS25-OT/Industrial-Control-Systems-Security-Analysis/blob/main/docs/Risk_assessment.md)
+[Risk Assessment](https://github.com/BeyarSWE/ITS2025-Individual-OT/blob/main/docs/Risk_assessment.md)
 
 ## 3 Gap Analysis & High-level Roadmap
 
